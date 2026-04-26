@@ -1,0 +1,11 @@
+.env
+.vscode
+dataset
+runs
+Gemini.py
+yolo_dataset.py
+yolo.py
+*.pt
+config.yaml
+
+
